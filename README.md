@@ -21,3 +21,7 @@ It is very straightforward to create new site on Netlify. Click New site from Gi
 Here you can configure your options. Make sure your publish directory is where your public site files are placed after building the site, and your build command is whatever you run to build the site. Then click the Deploy site button to continue. I left them blank because my files are on GitHub and they are static
 ![](./ConfigureSetting.PNG)
 
+## Step 7: All Done
+Congratulations! Your site is deployed.
+![](./Deployed.PNG)
+
